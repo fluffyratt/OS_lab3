@@ -1,0 +1,8 @@
+.vs/
+.vscode/
+*.exe
+*.obj
+*.o
+cache_lab
+__pycache__/
+*.pyc
